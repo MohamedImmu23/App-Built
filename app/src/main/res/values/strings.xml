@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App Built</string>
+
+    <string name="checkboxUnderline"><u><b><i>CheckBox Tool</i></b></u></string>
+    <string name="DatePicker"><u><b><i> Date Picker Tool</i></b></u></string>
+    <string name="TimePicker"><u><b><i>Time Picker Tool</i></b></u></string>
+    <string name="RadioBox"><u><b><i>RadioBox Tool</i></b></u></string>
+    <string name="Spinner"><u><b><i>Spinner Tool</i></b></u></string>
+    <string name="Toggle"><u><b><i>Toggle Button Tool</i></b></u></string>
+    <string name="Switch"><u><b><i>Switch Button Tool</i></b></u></string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
